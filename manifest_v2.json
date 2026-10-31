@@ -108,10 +108,14 @@
       ]
     },
     "xmb9p": {
-      "version": "V26.6.0.BAND",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.BAND.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.0C01.BAND",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0C01.BAND.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "V26.6.0C01.BAND",
+          "content": "（由于9Pro会出现重启问题，因此移除了书籍设置中的刷新设置功能）\n增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
