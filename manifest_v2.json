@@ -26,69 +26,174 @@
     {
       "title": "官网",
       "url": "https://vb.luoxe.cn",
-      "icon": "CodesandboxLogo"
+      "icon": "codesandbox-logo"
     }
   ],
   "downloads": {
     "xmrw5": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmrw5xring": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmrw6": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmb10": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmb10nfc": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmb10p": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.p67.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.p67.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmb9": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.n66.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.n66.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmb9p": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.BAND.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.BAND.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmws3": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmws4xring": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmws441": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmws4": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmws5": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmb11": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     },
     "xmb11nfc": {
       "version": "V26.6.0",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk"
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
+      "versionCode": 261031,
+      "updatelogs": [
+        {
+          "version": "V26.6.0",
+          "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
+        }
+      ]
     }
   },
   "ext": {}
