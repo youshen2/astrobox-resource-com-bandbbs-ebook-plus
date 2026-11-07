@@ -31,10 +31,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "V26.6.0.RW",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.RW",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.RW.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.RW",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -42,10 +46,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "V26.6.0.RW",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.RW",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.RW.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.RW",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -53,10 +61,14 @@
       ]
     },
     "xmrw6": {
-      "version": "V26.6.0.RW",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.RW.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.RW",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.RW.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.RW",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -64,10 +76,14 @@
       ]
     },
     "xmb10": {
-      "version": "V26.6.0.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o66",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -75,10 +91,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "V26.6.0.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o66",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -86,10 +106,14 @@
       ]
     },
     "xmb10p": {
-      "version": "V26.6.0.p67",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.p67.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.p67",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.p67.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.p67",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -97,10 +121,14 @@
       ]
     },
     "xmb9": {
-      "version": "V26.6.0.n66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.n66.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.n66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.n66.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.n66",
+          "content": "由于性能不足以支撑，移除书籍详情的查看封面大图功能\n移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -108,10 +136,14 @@
       ]
     },
     "xmb9p": {
-      "version": "V26.6.0C01.BAND",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0C01.BAND.rpk",
-      "versionCode": 261101,
+      "version": "V26.6.1.BAND",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.BAND.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.BAND",
+          "content": "移除了书架的刷新设置相关功能(因加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0C01.BAND",
           "content": "（由于9Pro会出现重启问题，因此移除了书籍设置中的刷新设置功能）\n增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -123,10 +155,14 @@
       ]
     },
     "xmws3": {
-      "version": "V26.6.0.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o62",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -134,10 +170,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "V26.6.0.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o62",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -145,10 +185,14 @@
       ]
     },
     "xmws441": {
-      "version": "V26.6.0.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o62",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -156,10 +200,14 @@
       ]
     },
     "xmws4": {
-      "version": "V26.6.0.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o62",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -167,10 +215,14 @@
       ]
     },
     "xmws5": {
-      "version": "V26.6.0.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o62",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -178,10 +230,14 @@
       ]
     },
     "xmb11": {
-      "version": "V26.6.0.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o66",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -189,10 +245,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "V26.6.0.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o66.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o66",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0",
           "content": "修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
@@ -200,10 +260,14 @@
       ]
     },
     "xmws541": {
-      "version": "V26.6.0.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.0.o62.rpk",
-      "versionCode": 261031,
+      "version": "V26.6.1.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
+      "versionCode": 261106,
       "updatelogs": [
+        {
+          "version": "V26.6.1.o62",
+          "content": "移除了书架的刷新设置相关功能(因可能加剧重启问题)\n修复了开启伪装页后重进设置页次数设置项会消失的问题\n修复了伪装页内容过长时无法滚动的问题\n优化了传输中断时的自动尝试重连逻辑\n优化了使用流畅度与耗电\n优化了部分重启问题\n优化了连接稳定性"
+        },
         {
           "version": "V26.6.0.o62",
           "content": "增加了查看书籍封面大图功能\n修复了书籍详情页无法显示书籍占用的问题\n修复了书籍设置中的刷新设置不生效的问题\n优化了书籍传输速度\n优化了连接稳定性\n优化了一丢丢重启问题"
