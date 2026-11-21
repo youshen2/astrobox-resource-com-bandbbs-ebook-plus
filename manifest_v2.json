@@ -3,7 +3,7 @@
     "id": "com.bandbbs.ebook.plus",
     "restype": "quick_app",
     "name": "弦电子书",
-    "description": "最强大的电子书小程序，支持封面、插图、章节等超多实用功能。\n\n支持导入的书籍格式：\nNVB、TXT、EPUB、MOBI、AZW3、DOC、DOCX、PDF、HTML、FB2、UMD\n\n本小程序需要与手机端配合使用，手机端需前往官网下载（手机端需在连接小米运动健康的情况下使用）。\n本小程序同时提供“无图标版”（即均为空白占位）和“天气图标版”（图标和名称均为天气），需前往官网下载。\n\n使用时手表自动重启是Vela的正常现象。\n\n手机端同步器需前往官网下载，iOS用户请前往官网下载AstroBox插件（插件仅支持导入TXT）。",
+    "description": "最强大的电子书小程序，支持封面、插图、章节等超多实用功能。\n\n支持导入的书籍格式：\nNVB、TXT、EPUB、MOBI、AZW3、DOC、DOCX、PDF、HTML、FB2、UMD\n\n本小程序同时提供“无图标版”（即均为空白占位）和“天气图标版”（图标和名称均为天气），需前往官网下载。\n\n使用时手表自动重启是Vela的正常现象。\n使用时手表自动重启是Vela的正常现象。\n使用时手表自动重启是Vela的正常现象。\n\n关于安卓用户：\n需前往官网下载“手机端（同步器）”，与小米运动健康配合使用。\n\n关于iOS（iPhone） / MacOS 用户：\n1.前往官网下载“AstroBox插件”后，在AstroBox的插件页面导入安装\n2.在AstroBox插件市场下载“弦电子书同步器（官方）”\niOS用户受设备环境限制，无法支持弦电子书完整功能，建议使用安卓设备连接弦电子书。",
     "preview": [
       "media/Frame 21_small.png",
       "media/66F011762DAD658B925DEBB311DC39FD.png",
@@ -31,9 +31,9 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "V26.6.1.RW",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.RW.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.RW",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.RW.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.RW",
@@ -46,9 +46,9 @@
       ]
     },
     "xmrw5xring": {
-      "version": "V26.6.1.RW",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.RW.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.RW",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.RW.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.RW",
@@ -61,9 +61,9 @@
       ]
     },
     "xmrw6": {
-      "version": "V26.6.1.RW",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.RW.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.RW",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.RW.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.RW",
@@ -76,9 +76,9 @@
       ]
     },
     "xmb10": {
-      "version": "V26.6.1.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o66.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o66",
@@ -91,9 +91,9 @@
       ]
     },
     "xmb10nfc": {
-      "version": "V26.6.1.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o66.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o66",
@@ -106,9 +106,9 @@
       ]
     },
     "xmb10p": {
-      "version": "V26.6.1.p67",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.p67.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.p67",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.p67.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.p67",
@@ -121,9 +121,9 @@
       ]
     },
     "xmb9": {
-      "version": "V26.6.1.n66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.n66.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.n66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.n66.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.n66",
@@ -136,9 +136,9 @@
       ]
     },
     "xmb9p": {
-      "version": "V26.6.1.BAND",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.BAND.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.BAND",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.BAND.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.BAND",
@@ -155,9 +155,9 @@
       ]
     },
     "xmws3": {
-      "version": "V26.6.1.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o62.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o62",
@@ -170,9 +170,9 @@
       ]
     },
     "xmws4xring": {
-      "version": "V26.6.1.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o62.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o62",
@@ -185,9 +185,9 @@
       ]
     },
     "xmws441": {
-      "version": "V26.6.1.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o62.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o62",
@@ -200,9 +200,9 @@
       ]
     },
     "xmws4": {
-      "version": "V26.6.1.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o62.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o62",
@@ -215,9 +215,9 @@
       ]
     },
     "xmws5": {
-      "version": "V26.6.1.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o62.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o62",
@@ -230,9 +230,9 @@
       ]
     },
     "xmb11": {
-      "version": "V26.6.1.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o66.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o66",
@@ -245,9 +245,9 @@
       ]
     },
     "xmb11nfc": {
-      "version": "V26.6.1.o66",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o66.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o66",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o66.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o66",
@@ -260,9 +260,9 @@
       ]
     },
     "xmws541": {
-      "version": "V26.6.1.o62",
-      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.1.o62.rpk",
-      "versionCode": 261106,
+      "version": "V26.6.2.o62",
+      "file_name": "downloads/com.bandbbs.ebook.plus.release.V26.6.2.o62.rpk",
+      "versionCode": 261120,
       "updatelogs": [
         {
           "version": "V26.6.1.o62",
